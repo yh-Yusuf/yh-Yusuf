@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yusuf
-- 👀 An Engineering Grad who loves to work on Data.
-- 🌱 I have worked on various projects in Data Science and Machine Learning field.
+- 👀 An Engineering Grad 🗿  who loves to work on Data.
+- 🌱 I code in Python and work on Data Science and Machine Learning projects.
 - 💞️ Lets Work together!
 - 📫 Mail me at yusuf0hasan9@gmail.com
 
