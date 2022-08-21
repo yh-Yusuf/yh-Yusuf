@@ -1,5 +1,3 @@
-- 
-
 👋 Hi, I’m Yusuf
 
 - 👀 An Engineering Grad 🗿  who loves to work on Data.
