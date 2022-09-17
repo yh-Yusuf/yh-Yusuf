@@ -40,6 +40,9 @@
 </br>
 </br>
 
+[![Yusuf's github stats](https://github-readme-stats.vercel.app/api?username=yh-Yusuf)](https://github.com/yh-Yusuf/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yh-Yusuf&layout=compact)](https://github.com/yh-Yusuf/github-readme-stats)
+
 
 <!---
 yh-Yusuf/yh-Yusuf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
