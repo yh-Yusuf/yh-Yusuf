@@ -1,3 +1,18 @@
+# 👋
+
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+
+
+
+<!---Snake --->
+<div align="center">
+<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Yusuf</h1>
+</div>
+
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+
 👋 Hi, I’m Yusuf
 
 - 👀 An Engineering Grad 🗿  who loves to work on Data.
@@ -5,6 +20,25 @@
 - 💞️ Lets Work together!
 - 📫 Mail me at yusuf0hasan9@gmail.com
 
+- 📄 Know about my experiences <a href="https://github.com/yh-Yusuf/CV/blob/main/YusufHasan.pdf" target="blank">Resume</a>
+
+
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
+
+## &nbsp; &nbsp; 📬📥 &nbsp; Connnect with Me
+
+<br/>
+
+&nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.linkedin.com/in/yusuf0hasan/"><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;
+<a href="mailto:yusuf0hasan9@gmail.com"><img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp; &nbsp; 
+
+
+</br>
+</br>
 
 
 <!---
